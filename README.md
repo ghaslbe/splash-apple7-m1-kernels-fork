@@ -1,3 +1,8 @@
+THIS is a FORK of
+
+https://github.com/paperniuk/splash/tree/apple7-m1-kernels 
+
+
 > **Unofficial fork: Splash on M1/M2 Macs.**
 > Splash is built by [Inco](https://github.com/incoai/splash): the engine, the models and the draft
 > models are theirs. This fork only adds support for Apple7/8 GPUs (M1, M2), which upstream Splash
